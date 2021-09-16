@@ -60,3 +60,15 @@ Express reccurence helps you generate dates based on Reccurance patterns. It is 
         }
     }
 ```
+
+# Options Screenshots
+### BASIC OPTIONS (Required)
+![your-pic-caption-name](0base.png)
+### DAY WISE
+![your-pic-caption-name](1day.png)
+### WEEK WISE
+![your-pic-caption-name](2week.png)
+### MONTH WISE
+![your-pic-caption-name](3month.png)
+### YEAR WISE
+![your-pic-caption-name](4year.png)
