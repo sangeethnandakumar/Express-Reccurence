@@ -21,8 +21,7 @@ jobs:
       with:
         dotnet-version: 6.0.x
     - name: Restore dependencies
-      run: dotnet restore
-      working-directory: Express-Reccurence/blob/master/Express.Recurrence
+      run: dotnet restore "Express-Reccurence/blob/master/Express.Recurrence/Express.Recurrence.csproj"
     - name: Build
       run: dotnet build --no-restore
     - name: Test
